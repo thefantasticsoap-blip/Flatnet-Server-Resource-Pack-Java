@@ -16,7 +16,8 @@ If you're looking for an older version of the pack please check **Releases**
 
 If you have any questions or suggestions feel free to reach out to `thefantasticsoap` on discord! You can also join our discord here -> [Mogswamp's Discord](https://discord.gg/mogswamp)!
 
-![alt text](https://github.com/thefantasticsoap-blip/Flatnet-Server-Resource-Pack-Java/blob/2e05132d066a55880aa474c9843fa7d710294c1d/assets/pack.png "Mogswamp's Logo")
+![alt text](https://github.com/thefantasticsoap-blip/Flatnet-Server-Resource-Pack-Java/blob/de64d32a30156c45e7e6f50a43d847d63e7f7b95/assets/project-icon.png "Mogswamp's Logo")
+
 
 
 
