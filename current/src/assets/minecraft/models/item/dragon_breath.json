@@ -1,0 +1,13 @@
+{
+
+   "parent": "minecraft:item/generated",
+  "textures": {
+  "layer0": "minecraft:item/dragon_breath"}, "overrides":[
+    {"predicate":{"custom_model_data":1},"model":"custom/bonewand"},
+	{"predicate":{"custom_model_data":2},"model":"custom/bluewand"},
+	{"predicate":{"custom_model_data":3},"model":"custom/wandish"},
+	{"predicate":{"custom_model_data":4},"model":"custom/pumpstaff"},
+	{"predicate":{"custom_model_data":5},"model":"custom/smallkin"},
+	{"predicate":{"custom_model_data":6},"model":"custom/gobbyshotrod"}
+  ]
+  }
