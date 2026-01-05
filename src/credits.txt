@@ -2,77 +2,14 @@ This is a list of the many wonderful and talented creators who have worked on th
 
 JoshuaLifeheart : {
 
+Hats:
 
-}
-
-
-BestInfinity : {
-    
-}
-
-Kchem : {
-
-}
-
-Magnapanther : {
-
-}
-
-Gloguse : {
-
-}
-
-Mochro : {
-
-}
-
-RatManJones : {
-
-}
-
-Robella : {
-
-}
-
-TheFantasticSoap : {
-
-}
-
-glasses
 ophat
-pinkaxolotl
-pancakes
-mogcrown
-snail
-shulker_hat
-spacesuit
 rathat
 mimic
 dragonegg
-camera
-beardjar
-tricornhat
-horns
-chefhat
-saps
-hardhat
-allay
-llamasnailr
-llamasnailb
 wrathat
-mask
-witchhat
-fakeglasses
-xmastree
-snowglobe
-smallpresent
-santahat
-hideandseek
-amogusslime
-crogus
-snowman
-tiara
-heartcoe_hat
+snail
 friendshiprat
 heartsnail
 blueaxolotl
@@ -82,12 +19,137 @@ yellowaxolotl
 prideaxo
 bigmogplush
 mogplush
+hardhat
+camera
+pinkaxolotl
+heartcoe_hat
+copper_wreath
+greensantahat
+horns
+chefhat
+snowglobe
+smallpresent
+santahat
+hideandseek
+xmastree
+
+Cookies:
+loliorange
+lolired
+loliblue
+loligreen
+guardcandy
+
+Dragons Breath :
+
+bonewand
+bluewand
+wandish
+pumpstaff
+}
+
+
+BestInfinity : {
+Hats :
+
+rathat
+mimic
+wrathat
+allay
+shulker_hat
+amogusslime
+snowman
+
+Cookies:
+
+caramel_apple
+}
+
+
+Kchem : {
+Hats:
+
+witchhat
+}
+
+
+Magnapanther : {
+Hats:
+
+llamasnailr
+llamasnailb
+crogus
+}
+
+
+Gloguse : {
+Hats:
+
+mask
+
+Cookies:
+
+chocolatebar
+rarecandy
+}
+
+
+Mochro : {
+Hats: 
+
+saps
+}
+
+
+RatManJones : {
+Hats:
+
+tricornhat
+}
+
+
+James Mending : {
+Hats:
+
+beardjar
+}
+
+
+Robella : {
+Hats:
+
 beeplush
 skeleplush
 witherskeleplush
 zombutplush
-copper_wreath
-greensantahat
+}
+
+
+TheFantasticSoap : {
+Hats:
+
+candy_corn
+
+Cookies:
+
+spooky_candy_1
+spooky_candy_2
+spooky_candy_3
+
+Dragons Breath:
+
+skull_slime_hat
+}
+
+Unknown at present ---
+
+Hats:
+glasses
+pancakes
+mogcrown
+spacesuit
+fakeglasses
+tiara
 bunny_ears
 spring_basket
 snowmanbackpack
@@ -101,4 +163,13 @@ banhammer
 sunflower_hat
 mushroom_hat
 sandcastle
-candy_corn
+
+Cookies :
+axorollcandy
+flatnet_juice
+
+Dragons Breath :
+smallkin
+gobbyshotrod
+
+Pack maintained and updated by TheFantasticSoap
