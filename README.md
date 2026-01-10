@@ -3,7 +3,7 @@
 
 ## Active version on the server : `v0.01` [Download](https://github.com/thefantasticsoap/Flatnet-Server-Resource-Pack-Java/releases/download/v0.01___Halloween2025/10.25.2025_flatnet_resourcepack_halloween.zip) - Or - [View Release](https://github.com/thefantasticsoap/Flatnet-Server-Resource-Pack-Java/releases/tag/v0.01___Halloween2025)
 
-### Current Dev Version : `v1.1`  [Download](https://github.com/thefantasticsoap/Flatnet-Server-Resource-Pack-Java/releases/download/v1.00___1.21-1.21.11/flatnet-resourcepack-1.1.26.v0.01.zip) - Or -[View Release](https://github.com/thefantasticsoap/Flatnet-Server-Resource-Pack-Java/releases/tag/v1.1)
+### Current Dev Version : `v1.1`  [Download](https://github.com/thefantasticsoap/Flatnet-Server-Resource-Pack-Java/releases/download/v1.1/flatnet-resourcepack-1.10.26-v1.1.zip) - Or -[View Release](https://github.com/thefantasticsoap/Flatnet-Server-Resource-Pack-Java/releases/tag/v1.1)
 ### Updated On : `01.10.2026`
 ### Minecraft Versions : `1.21 - 1.21.11`
 
@@ -17,6 +17,7 @@ If you're looking for an older version of the pack please check **Releases**
 If you have any questions or suggestions feel free to reach out to `thefantasticsoap` on discord! You can also join our discord here -> [Mogswamp's Discord](https://discord.gg/mogswamp)!
 
 ![alt text](https://github.com/thefantasticsoap/Flatnet-Server-Resource-Pack-Java/blob/de64d32a30156c45e7e6f50a43d847d63e7f7b95/assets/project-icon.png "Mogswamp's Logo")
+
 
 
 
