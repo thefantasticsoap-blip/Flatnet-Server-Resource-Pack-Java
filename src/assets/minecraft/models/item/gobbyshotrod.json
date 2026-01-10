@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/fire_0",
 		"1": "block/honeycomb_block",
-		"2": "block/custom/wither_skeleton",
+		"2": "block/wither_skeleton",
 		"3": "block/spawner",
 		"particle": "block/fire_0"
 	},
